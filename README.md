@@ -13,7 +13,7 @@
 <ul>
 <li><a href="https://polaris.shopify.com/principles/principles">Shopify Design Principles</a></li>
 </ul>
-
+<hr />
 # Misc
 
 <h2>Python</h2>
