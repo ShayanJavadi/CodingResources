@@ -8,3 +8,7 @@
 <li><a href="https://github.com/d3/d3/wiki/Tutorials">D3 tutorials</a></li>
 </ul>
 
+<h2>Design</h2>
+<ul>
+<li><a href="https://polaris.shopify.com/principles/principles">Shopify Design Principles</a></li>
+</ul>
