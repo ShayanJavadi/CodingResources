@@ -13,3 +13,10 @@
 <ul>
 <li><a href="https://polaris.shopify.com/principles/principles">Shopify Design Principles</a></li>
 </ul>
+
+# Misc
+
+<h2>Python</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=ks4MPfMq8aQ">GTA self driving car series</a></li>
+</ul>
