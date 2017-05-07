@@ -11,7 +11,7 @@
 </ul>
 <h2>CSS</h2>
 <ul>
-<li><a href="https://css-tricks.com/centering-in-the-unknown/">Easy vertical center (black magic) a></li>
+<li><a href="https://css-tricks.com/centering-in-the-unknown/">Easy vertical center (black magic) a></a></li>
 </ul>
 <h2>Design</h2>
 <ul>
