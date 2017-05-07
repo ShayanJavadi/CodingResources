@@ -9,7 +9,10 @@
 <li><a href="https://github.com/d3/d3/wiki/Tutorials">D3 tutorials</a></li>
 <li><a href="https://medium.com/@mbostock/command-line-cartography-part-1-897aa8f8ca2c">D3 maps using ToptoJson</a></li>
 </ul>
-
+<h2>CSS</h2>
+<ul>
+<li><a href="https://css-tricks.com/centering-in-the-unknown/">Easy vertical center (black magic) a></li>
+</ul>
 <h2>Design</h2>
 <ul>
 <li><a href="https://polaris.shopify.com/principles/principles">Shopify Design Principles</a></li>
