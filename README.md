@@ -16,6 +16,7 @@
 <h2>Design</h2>
 <ul>
 <li><a href="https://polaris.shopify.com/principles/principles">Shopify Design Principles</a></li>
+<li><a href="http://ambiance.somethingjustlikethis.com/">Ambiance</a></li>
 <li><a href="https://www.youtube.com/watch?v=IsbeqtIIt7I">Quick flat design tutorial (Illustrator)</a></li>
 </ul>
 <hr>
